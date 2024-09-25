@@ -1,1 +1,1 @@
-
+This repository contains C++ programs focused on course management. The main program utilizes a `Course` class to manage course details, including course ID, name, and credit points. The project includes a header file for class definitions and an implementation file for method definitions.
