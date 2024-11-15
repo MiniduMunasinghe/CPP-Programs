@@ -1,0 +1,4 @@
+﻿  TestP-05.cpp
+E:\Work\Year-01\Semester-02\OOC\Programs\TestP-05\TestP-05\TestP-05.cpp(13,44): warning C4305: 'argument': truncation from '__int64' to 'int'
+E:\Work\Year-01\Semester-02\OOC\Programs\TestP-05\TestP-05\TestP-05.cpp(13,44): warning C4309: 'argument': truncation of constant value
+  TestP-05.vcxproj -> E:\Work\Year-01\Semester-02\OOC\Programs\TestP-05\x64\Debug\TestP-05.exe
