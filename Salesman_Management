@@ -1,1 +1,0 @@
-This program manages information about salespeople in a company. It uses a Salesman class to store and display details such as the salesman's ID, name, salary, and contact number. The program also allows updating the contact number for individual salespeople.
